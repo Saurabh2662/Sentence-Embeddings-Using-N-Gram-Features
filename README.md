@@ -1,1 +1,1 @@
-# * Sentence Embeddings Using N Gram Features*
+# *Sentence Embeddings Using N Gram Features*
