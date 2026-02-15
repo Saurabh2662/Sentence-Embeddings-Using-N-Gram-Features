@@ -20,9 +20,9 @@ This project demonstrates that meaningful sentence similarity can be achieved wi
 
 An **N-gram** is a sequence of N consecutive words in text.
 
-Example:
+Example:-
 
-Sentence:
+Sentence:-
 > Machine learning is powerful
 
 | Type | Output |
