@@ -51,5 +51,7 @@ N-grams help capture context better than individual words.
 - Scikit-learn
 - Regular Expressions (re)
 
-ps://github.com/yourusername/ngram-sentence-embeddings.git
-cd ngram-sentence-embeddings
+## 💡 Contributors
+👤 **Your Name - Saurabh**  
+📧 **Email: sauravsingh6462@gmail.com**   
+🔗 **LinkedIn: https://www.linkedin.com/in/saurabh1826/**
