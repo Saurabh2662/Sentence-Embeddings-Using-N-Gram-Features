@@ -49,7 +49,7 @@ N-grams help capture context better than individual words.
 - Python
 - NumPy
 - Scikit-learn
-- Regular Expressions (re)
+- Regular Expressions (RE)
 
 ## 💡 Contributors
 👤 **Your Name:- Saurabh**  
